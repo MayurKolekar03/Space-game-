@@ -1,6 +1,4 @@
-That’s awesome! Using Amazon Q CLI to build a game is a great way to show off AI-assisted development. A professional README helps other developers understand your code and makes your GitHub profile look sharp. [1] 
-Here is a professional template you can use:
-------------------------------
+
 ## Space Fuel Run 🚀
 A simple 2D side-scrolling space survival game.
 ## 📋 Overview
