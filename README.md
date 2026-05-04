@@ -50,6 +50,3 @@ This project leveraged Amazon Q CLI to:
 * Avoid [Obstacle] - Don't crash!
 
 ------------------------------
-
-ing-amazon-q-cli#:~:text=How%20I%20Built%20It%20I%20used%20Amazon,of%20which%20sped%20up%20my%20workflow%20tremendously.)
-[6] [https://builder.aws.com](https://builder.aws.com/content/2xYHVlu0sDaeCUMHxFt4AGLuaBi/how-i-built-a-simple-runner-game-using-amazon-q-cli#:~:text=I%20highly%20recommend%20trying%20out%20Amazon%20Q,up%20development%20and%20add%20some%20AI%20magic.)
